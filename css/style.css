@@ -77,13 +77,6 @@ a {
     text-decoration: none;
 }
 
-/* Лого */
-.logo {
-    font-family: var(--font-family-secondary);
-    font-size: 26px;
-    line-height: 1.19;
-    letter-spacing: 0.03em;
-}
 
 /* Хедер */
 .header-page {
@@ -105,12 +98,6 @@ a {
 }
  
 /* Лого хедер */
-.header-page .logo-first-half {
-    color: var(--color-accent);
-}
-.header-page .logo-secondary-half {
-    color: var(--color-third);
-}
 .header-page .logo {
     margin-right: 93px;
 }
